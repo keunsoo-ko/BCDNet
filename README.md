@@ -19,7 +19,7 @@ Run Test for real noise dataset on the SSID dataset:
 ```
     $ python demo.py --data_path "Path" --model_path BCDNet_Real.pth(put downloaded model path)
 ```
-The path of dataset should be "Path", in which consisting of "Clean" and "Noise" as below
+The path of dataset should be "Path", in which consisting of "Clean" and "Noise" folders as below
 ```bash
 ├─ Path
     ├── Clean
