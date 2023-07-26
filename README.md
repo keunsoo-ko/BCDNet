@@ -25,3 +25,4 @@ The path of dataset should be "Path", in which consisting of "Clean" and "Noise"
     ├── Clean
     └── Noise
 ```  
+If you get the performance in paper, use the self-ensemble stratey as mentioned in the paper.
